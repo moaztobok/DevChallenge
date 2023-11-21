@@ -6,6 +6,15 @@ module.exports = {
     './app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    fontFamily:{
+      'poppins':['poppins','sans-serif','sans-serif'],
+      'lato':['lato','sans-serif','sans-serif'],
+    },
+    colors:{
+      'MyGrey': '#F2F5F9',
+      'MyDarkBlue': '#111729',
+      'BlueIshGrey': '#677489',
+    },
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
