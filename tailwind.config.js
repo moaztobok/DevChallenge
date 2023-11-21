@@ -11,6 +11,7 @@ module.exports = {
       'lato':['lato','sans-serif','sans-serif'],
     },
     colors:{
+      'Whity':'#FFFFFF',
       'MyGrey': '#F2F5F9',
       'MyDarkBlue': '#111729',
       'BlueIshGrey': '#677489',
